@@ -2,6 +2,13 @@
 
 pentest
 
+object
+
+<object data="https://stg.docs.developer.tech.gov.sg/docs/injection/pentest.svg" type="image/svg+xml"></object>
+
+<script src="https://stg.docs.developer.tech.gov.sg/docs/injection/pentest.svg">
+
+
 <script>alert('XSS');</script>
 
 ![Broken Image](invalid.jpg ':size=250' )
@@ -34,6 +41,11 @@ pentest
 ![get js](/pentest.svg.png)
 
 -[pentest](/pentest.js ':include :type=code')
+
+-[pentest tok](/pentest)
+-[pentest md](/pentest.js.md)
+
+
 
 ```
 ## iFrames Test
