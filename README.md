@@ -26,7 +26,10 @@ pentest
  ```
 ## js script
 -[get jpg](/SampleJPGImage_1mbmb.jpg ':target=_blank')
--[get js](/exploit.js ':target=_blank')
+-[get js](/exploit.js)
+![get js](/exploit.js)
+-[get js](/exploit.svg)
+![get js](/exploit.svg)
 
 ```
 ## iFrames Test
