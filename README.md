@@ -25,7 +25,7 @@ pentest
       B-->D(<img onerror=location=`javascript\u003aalert\u0028document.domain\u0029` src=x>);
  ```
 ## js script
-![get js](/exploit.js ':target=_blank')
+-[get jpg](/SampleJPGImage_1mbmb.jpg ':target=_blank')
 -[get js](/exploit.js ':target=_blank')
 
 ```
