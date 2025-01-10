@@ -28,8 +28,10 @@ pentest
 -[get jpg](/SampleJPGImage_1mbmb.jpg ':target=_blank')
 -[get js](/exploit.js)
 ![get js](/exploit.js)
--[get js](/exploit.svg)
-![get js](/exploit.svg)
+-[get js](/pentest.svg)
+![get js](/pentest.svg)
+-[get js](/pentest.svg.png)
+![get js](/pentest.svg.png)
 
 ```
 ## iFrames Test
@@ -41,3 +43,4 @@ pentest
 <figure>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-IXqbuMOwYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
+```
