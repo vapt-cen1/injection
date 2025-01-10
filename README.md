@@ -33,6 +33,8 @@ pentest
 -[get js](/pentest.svg.png)
 ![get js](/pentest.svg.png)
 
+-[pentest](/pentest.js ':include :type=code')
+
 ```
 ## iFrames Test
 
