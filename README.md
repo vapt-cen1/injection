@@ -1,1 +1,1 @@
-<script src="https://cdn.jsdelivr.net/gh/hotplugin0x01/payload-testing@main/payload-alert.js"></script>
+<script src="https://evil.com/payload-alert.js"></script>
